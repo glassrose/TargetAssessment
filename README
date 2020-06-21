@@ -1,0 +1,12 @@
+The problem statement is provided in top-level file : PROBLEM_STATEMENT
+
+The project uses DFS-sinking to evaluate the area size of the asymmetrical shaped fertile lands and returns the sorted sizes.
+
+The memory constraints of the project to run on 400x600 area is 32MB so pass the argument:
+-Xss32m
+
+The pom uses JUnit5 and is self sufficient in terms of dependencies and versions of compiler or dependencies used.
+
+A number of tests have been used in development of this assignment and are provided as JUnit tests in FarmTest.java under src/test/java sub-directory.
+
+Feel free to rach out at chandniverma2112@gmail.com for any clarifications on the code.
